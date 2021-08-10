@@ -11,6 +11,9 @@
 
 <hr>
 <br>
+<div align="right">
+    <img src="https://github-readme-stats.vercel.app/api?username=snknitin&show_icons=true&theme=algolia"  width="400px" alt="snknitin">
+</div>
 
 This text
 
@@ -25,9 +28,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 
-<div align="right">
-    <img src="https://github-readme-stats.vercel.app/api?username=snknitin&show_icons=true&theme=algolia"  width="400px" alt="snknitin">
-</div>
 
 
 <div align="right">
