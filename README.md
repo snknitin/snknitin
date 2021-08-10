@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <hr>
 <br>
-<div align="left">
+<div align="right">
     <img src="https://github-readme-stats.vercel.app/api?username=snknitin&show_icons=true&theme=algolia"  width="400px" alt="snknitin">
 </div>
 <div align="left">
