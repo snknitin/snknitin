@@ -7,6 +7,13 @@
 <!--
 **snknitin/snknitin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+-->
+
+<hr>
+<br>
+
+This text
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -17,12 +24,7 @@ Here are some ideas to get you started:
 - ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-<hr>
-<br>
-
-This text
+- 
 <div align="right">
     <img src="https://github-readme-stats.vercel.app/api?username=snknitin&show_icons=true&theme=algolia"  width="400px" alt="snknitin">
 </div>
