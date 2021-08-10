@@ -26,7 +26,8 @@ This text
 <div align="right">
     <img src="https://github-readme-stats.vercel.app/api?username=snknitin&show_icons=true&theme=algolia"  width="400px" alt="snknitin">
 </div>
--📫 How to reach me:
+
+<h3>How to reach me 📫</h3>
 <div align="left">
     <a href="https://www.linkedin.com/in/nitinkishore/">
         <img src="https://image.flaticon.com/icons/png/512/145/145807.png" width="30px">
