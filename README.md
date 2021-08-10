@@ -34,4 +34,4 @@
     </a>&nbsp;&nbsp;
 </div>
 <hr>
-You can find miscellaneous details about me [here](https://snknitin.github.io/personal)
+My alternative self (not necessarily in the sense of the many worlds interpretation) is always doing something cool and fun. You can find miscellaneous details about this [here](https://snknitin.github.io/personal)
