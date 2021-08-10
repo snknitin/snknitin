@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<hr>
+<br>
+<div align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=snknitin&show_icons=true&theme=algolia"  width="400px" alt="snknitin">
+</div>
