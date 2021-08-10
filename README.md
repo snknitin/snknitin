@@ -11,7 +11,7 @@
 **snknitin/snknitin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-You can find miscellaneous details about me [here](https://snknitin.github.io/personal)
+
 
 <hr>
 <div align="right">
@@ -34,4 +34,4 @@ You can find miscellaneous details about me [here](https://snknitin.github.io/pe
     </a>&nbsp;&nbsp;
 </div>
 <hr>
-
+You can find miscellaneous details about me [here](https://snknitin.github.io/personal)
