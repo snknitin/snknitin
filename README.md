@@ -10,7 +10,7 @@
 -->
 
 <hr>
-This text
+You can find miscellaneous details about me [here](https://snknitin.github.io/personal/)
 
 <div align="right">
     <img src="https://github-readme-stats.vercel.app/api?username=snknitin&show_icons=true&theme=algolia"  width="400px" alt="snknitin">
