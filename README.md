@@ -12,30 +12,9 @@
 <hr>
 This text
 
-<div>
-<div style="width: 60%; float:left" align="left">
-    Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 
-</div>
-
-<div style="width: 40%; float:right" align="right">
-    <img src="https://github-readme-stats.vercel.app/api?username=snknitin&show_icons=true&theme=algolia"  width="400px" alt="snknitin">
-</div>
-<br style="clear:both;"/>
-</div>
-
-
-
 <div align="right">
+    <img src="https://github-readme-stats.vercel.app/api?username=snknitin&show_icons=true&theme=algolia"  width="400px" alt="snknitin">
+
     <h3>How to reach me 📫</h3>
     <a href="https://www.linkedin.com/in/nitinkishore/">
         <img src="https://image.flaticon.com/icons/png/512/145/145807.png" width="30px">
