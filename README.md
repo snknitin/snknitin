@@ -1,6 +1,6 @@
 ### Hello World 🤖👋
 
-<div align="right"> 
+<div align="left"> 
     <img src="https://komarev.com/ghpvc/?username=snknitin" alt="snknitin"> 
 </div>
 
