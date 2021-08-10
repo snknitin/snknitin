@@ -13,7 +13,7 @@
 This text
 
 <div>
-<div style="width: 60%; float:left">
+<div style="width: 60%; float:left" align="left">
     Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -27,7 +27,7 @@ This text
 - 
 </div>
 
-<div style="width: 40%; float:right">
+<div style="width: 40%; float:right" align="right">
     <img src="https://github-readme-stats.vercel.app/api?username=snknitin&show_icons=true&theme=algolia"  width="400px" alt="snknitin">
 </div>
 <br style="clear:both;"/>
