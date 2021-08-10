@@ -1,5 +1,9 @@
 ### Hello World 🤖👋
 
+<div align="right"> 
+    <img src="https://komarev.com/ghpvc/?username=snknitin" alt="snknitin"> 
+</div>
+
 <!--
 **snknitin/snknitin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
