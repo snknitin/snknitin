@@ -30,6 +30,7 @@ This text
 <div style="width: 40%; float:right" align="right">
     <img src="https://github-readme-stats.vercel.app/api?username=snknitin&show_icons=true&theme=algolia"  width="400px" alt="snknitin">
 </div>
+<br style="clear:both;"/>
 </div>
 
 
