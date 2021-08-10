@@ -8,10 +8,9 @@
 **snknitin/snknitin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
+You can find miscellaneous details about me [here](https://snknitin.github.io/personal)
 
 <hr>
-You can find miscellaneous details about me [here](https://snknitin.github.io/personal/)
-
 <div align="right">
     <img src="https://github-readme-stats.vercel.app/api?username=snknitin&show_icons=true&theme=algolia"  width="400px" alt="snknitin">
 </div>
