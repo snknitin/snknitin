@@ -10,20 +10,18 @@
 -->
 
 <hr>
-<br>
 This text
+
+
+<div align="right">
+    <img src="https://github-readme-stats.vercel.app/api?username=snknitin&show_icons=true&theme=algolia"  width="400px" alt="snknitin">
+</div>
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ... 
-- 
-<div align="right">
-    <img src="https://github-readme-stats.vercel.app/api?username=snknitin&show_icons=true&theme=algolia"  width="400px" alt="snknitin">
-</div>
-
-
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - ...
@@ -48,4 +46,4 @@ Here are some ideas to get you started:
     </a>&nbsp;&nbsp;
 </div>
 <hr>
-<br>
+
