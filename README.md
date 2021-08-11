@@ -1,5 +1,5 @@
 ### Hello World 🤖👋
-
+<img src="https://i.stack.imgur.com/87Tpa.gif" width="28px">
 
 <div align="left"> 
     <img src="https://komarev.com/ghpvc/?username=snknitin" alt="snknitin"> 
