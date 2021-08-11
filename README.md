@@ -17,12 +17,11 @@
 <div markdown="1">
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=snknitin&show_icons=true&theme=algolia"  width="400px" alt="snknitin">
     
-A Jack-of-all-trades with a Masters in Computer Science and a minor in Data Science.   
-I aim to be a generalist across all the sub fields of AI and am working towards it.  
+A Jack-of-all-trades with a Masters in Computer Science and a minor in Data Science. I aim to be a generalist across all the sub fields of AI and am working towards it.  
     
-* I'm currently learning - AI for Trading, huggingface trasnformers
-* I'm looking to collaborate on research ideas to tackle unsolved problems in multiple domains and publish
-* [Google Scholar](https://scholar.google.com/citations?user=SQ_dnhIAAAAJ&hl=en)
+* 📖 Currently learning - AI for Trading, huggingface trasnformers
+* 🤝 Looking to collaborate on - Novel research ideas to tackle unsolved problems in multiple domains
+* 🎓 [Google Scholar](https://scholar.google.com/citations?user=SQ_dnhIAAAAJ&hl=en)
     
 </div>
 <hr>
