@@ -12,7 +12,11 @@
 
 -->
 
-
+```css
+body {
+  background: red;
+}
+```
 <hr>
 <div class="row">
     <div class = "column left">
