@@ -14,9 +14,9 @@
 
 
 <hr>
-<div>
+<div markdown="1">
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=snknitin&show_icons=true&theme=algolia"  width="400px" alt="snknitin">
-    Jack of all trades, with a Masters in CS. 
+    A Jack-of-all-trades with a Masters in Computer Science and a minor in Data Science.  
     * I'm currently learning
     * I'm looking to collaborate on research ideas to tackle unsolved problems
 </div>
