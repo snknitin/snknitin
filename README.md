@@ -12,6 +12,22 @@
 
 -->
 
+<style>
+    {
+        box-sizing: border-box;
+    }
+    /* Set additional styling options for the columns*/
+    .column {
+    float: left;
+    width: 50%;
+    }
+
+    .row:after {
+    content: "";
+    display: table;
+    clear: both;
+    }
+</style>
 
 <hr>
 <div class="row">
