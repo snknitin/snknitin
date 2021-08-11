@@ -12,30 +12,13 @@
 
 -->
 
-<head>
-<style>
-    {
-        box-sizing: border-box;
-    }
-    /* Set additional styling options for the columns*/
-    .column {
-    float: left;
-    width: 50%;
-    }
 
-    .row:after {
-    content: "";
-    display: table;
-    clear: both;
-    }
-</style>
-</head>
 <hr>
 <div class="row">
-    <div class = "column">
+    <div class = "column left">
         <img src="https://github-readme-stats.vercel.app/api?username=snknitin&show_icons=true&theme=algolia"  width="400px" alt="snknitin">
     </div>
-    <div class = "column">
+    <div class = "column right">
         <img src="https://github-readme-stats.vercel.app/api?username=snknitin&show_icons=true&theme=algolia"  width="400px" alt="snknitin">
     </div>
 </div>
@@ -46,8 +29,8 @@ My alternative self (not necessarily in the sense of the many worlds interpretat
 
 You can find miscellaneous details about this [here](https://snknitin.github.io/personal)
 
-<div align="right">
-    <h3>How to reach me 📫</h3>
+<div align="left">
+    <h4>How to reach me 📫</h4>
     <a href="https://www.linkedin.com/in/nitinkishore/">
         <img src="https://image.flaticon.com/icons/png/512/145/145807.png" width="30px">
     </a>&nbsp;&nbsp;
