@@ -14,11 +14,11 @@
 
 
 <hr>
-<div class="row">
-    <div class = "column" align="right">
+<div markdown="1">
+    <div>
         <img src="https://github-readme-stats.vercel.app/api?username=snknitin&show_icons=true&theme=algolia"  width="400px" alt="snknitin">
     </div>
-    <div class = "column">
+    <div>
         <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
         <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
