@@ -40,6 +40,11 @@
 </div>
 
 
+<hr>
+My alternative self (not necessarily in the sense of the many worlds interpretation) is always up to something cool and fun.    
+
+You can find miscellaneous details about this [here](https://snknitin.github.io/personal)
+
 <div align="right">
     <h3>How to reach me 📫</h3>
     <a href="https://www.linkedin.com/in/nitinkishore/">
@@ -55,7 +60,3 @@
         <img src="https://image.flaticon.com/icons/png/512/2111/2111463.png" width="30px">
     </a>&nbsp;&nbsp;
 </div>
-<hr>
-My alternative self (not necessarily in the sense of the many worlds interpretation) is always up to something cool and fun.    
-
-You can find miscellaneous details about this [here](https://snknitin.github.io/personal)
