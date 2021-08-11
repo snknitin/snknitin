@@ -31,12 +31,12 @@
 
 <hr>
 <div class="row">
-<div class = "column">
-    <img src="https://github-readme-stats.vercel.app/api?username=snknitin&show_icons=true&theme=algolia"  width="400px" alt="snknitin">
-</div>
-<div class = "column">
-    <img src="https://github-readme-stats.vercel.app/api?username=snknitin&show_icons=true&theme=algolia"  width="400px" alt="snknitin">
-</div>
+    <div class = "column">
+        <img src="https://github-readme-stats.vercel.app/api?username=snknitin&show_icons=true&theme=algolia"  width="400px" alt="snknitin">
+    </div>
+    <div class = "column">
+        <img src="https://github-readme-stats.vercel.app/api?username=snknitin&show_icons=true&theme=algolia"  width="400px" alt="snknitin">
+    </div>
 </div>
 
 
