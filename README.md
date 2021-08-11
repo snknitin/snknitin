@@ -14,12 +14,14 @@
 
 
 <hr>
-
 <div>
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=snknitin&show_icons=true&theme=algolia"  width="400px" alt="snknitin">
+    Jack of all trades, with a Masters in CS. 
+    * I'm currently learning
+    * I'm looking to collaborate on research ideas to tackle unsolved problems
 </div>
-
 <hr>
+<br>
 <div>
     <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
