@@ -14,9 +14,9 @@
 
 
 <hr>
-<div markdown="1">
+<div>
     <div>
-        <img src="https://github-readme-stats.vercel.app/api?username=snknitin&show_icons=true&theme=algolia"  width="400px" alt="snknitin">
+        <img align="right" src="https://github-readme-stats.vercel.app/api?username=snknitin&show_icons=true&theme=algolia"  width="400px" alt="snknitin">
     </div>
     <div>
         <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
