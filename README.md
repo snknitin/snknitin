@@ -19,7 +19,7 @@
     
 A Jack-of-all-trades with a Masters in Computer Science and a minor in Data Science. I aim to be a generalist across all the sub fields of AI and am working towards it.  
     
-* 📖 Currently learning - AI for Trading, huggingface trasnformers
+* 📖 Currently learning - AI for Trading, huggingface transformers
 * 🤝 Looking to collaborate on - Novel research ideas to tackle unsolved problems in multiple domains
 * 🎓 [Google Scholar](https://scholar.google.com/citations?user=SQ_dnhIAAAAJ&hl=en)
     
