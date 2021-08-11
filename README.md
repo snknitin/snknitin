@@ -12,6 +12,7 @@
 
 -->
 
+<head>
 <style>
     {
         box-sizing: border-box;
@@ -28,7 +29,7 @@
     clear: both;
     }
 </style>
-
+</head>
 <hr>
 <div class="row">
     <div class = "column">
