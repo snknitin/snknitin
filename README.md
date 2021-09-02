@@ -39,7 +39,7 @@ A Jack-of-all-trades with a Masters in Computer Science and a minor in Data Scie
 
 
 <hr>
-My alternative self (not necessarily in the sense of the many worlds interpretation) stepped off the hedonic treadmill and is always up to something cool and fun.    
+My alternative self (not necessarily in the sense of the many worlds interpretation) stepped off the hedonic treadmill but is is still doing something cool and fun.    
 
 You can find miscellaneous details about this [here](https://snknitin.github.io/personal)
 
