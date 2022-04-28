@@ -46,7 +46,7 @@ You can find miscellaneous details about this [here](https://snknitin.github.io/
 <div align="left">
     <h4>How to reach me 📫</h4>
     <a href="https://www.linkedin.com/in/nitinkishore/">
-        <img src="https://image.flaticon.com/icons/png/512/145/145807.png" width="30px">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px">
     </a>&nbsp;&nbsp;
     <a href="https://twitter.com/Nitin_wysiwyg/">
         <img src="https://image.flaticon.com/icons/png/512/145/145812.png" width="30px">
