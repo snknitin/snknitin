@@ -31,7 +31,7 @@ A Jack-of-all-trades with a Masters in Computer Science and a minor in Data Scie
 <hr>
 
 <div markdown="1">
-    <img align="right" src="https://github.com/snknitin/snknitin.github.io/blob/master/images/gamer.jpg"  width="400px" alt="snknitin">
+    <img align="right" src="https://github.com/snknitin/snknitin.github.io/blob/master/images/gamer.jpg"  width="400px" height="385px" alt="snknitin">
 I usually keep myself busy
 
 📚 MOOCs I'm currently doing (in 2022) - 
