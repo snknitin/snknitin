@@ -7,10 +7,6 @@
 ![hits](https://visitor-badge.laobi.icu/badge?page_id=snknitin)
 <br />
 
-<img src="https://c.tenor.com/GaBZpWimIVUAAAAC/solo-leveling-sung-jin-woo.gif" width="400px" height="150px">
-
-
-
 
 <!--
 **snknitin/snknitin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,14 +25,31 @@ A Jack-of-all-trades with a Masters in Computer Science and a minor in Data Scie
 * 📖 Currently learning - AI for Trading, huggingface transformers
 * 🤝 Looking to collaborate on - Novel research ideas to tackle unsolved problems in multiple domains
 * 🎓 [Google Scholar](https://scholar.google.com/citations?user=SQ_dnhIAAAAJ&hl=en)
+
+ 
     
 </div>
-    <div align="right"> 
+
+ <div align="right"> 
     <img src="https://komarev.com/ghpvc/?username=snknitin" alt="snknitin"> 
 </div>
+
+
+ <div align="right"> 
+    <img src="https://c.tenor.com/GaBZpWimIVUAAAAC/solo-leveling-sung-jin-woo.gif" width="400px" height="180px">
+</div>
+
+
 <hr>
 <br>
-<div>
+
+
+
+<div align="left"> 
+    <img src="https://c.tenor.com/NZhkoDp1mR8AAAAC/sharingan.gif"  width="70px"> 
+</div>
+
+<div align="right" >
     <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
     <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
@@ -51,12 +64,20 @@ A Jack-of-all-trades with a Masters in Computer Science and a minor in Data Scie
 
 <hr>
 
-<img src="https://c.tenor.com/NZhkoDp1mR8AAAAC/sharingan.gif" width="40px" height="70px"> 
-My alternative self (not necessarily in the sense of the many worlds interpretation) stepped off the hedonic treadmill but is is still doing something cool and fun.    
+<div markdown="1">
 
+   
+My alternative self (not necessarily in the sense of the many worlds interpretation) stepped off the hedonic treadmill but is is still doing something cool and fun.    
 You can find miscellaneous details about this [here](https://snknitin.github.io/personal)
 
+</div>
+
+
+
+    
+
 <hr>
+<br />
 
 <div align="left">
     <h4>Other ways to reach me 📫</h4>
