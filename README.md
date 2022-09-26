@@ -1,10 +1,13 @@
-### Hello World 🤖👋
+###  Hello World 🤖 
+
 
 
 [![Linkedin Follow](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nitinkishore/)](https://www.linkedin.com/in/nitinkishore/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Nitin_wysiwyg?label=Follow&style=social)](http://twitter.com/Nitin_wysiwyg)
 ![hits](https://visitor-badge.laobi.icu/badge?page_id=snknitin)
 <br />
+
+<img src="https://c.tenor.com/GaBZpWimIVUAAAAC/solo-leveling-sung-jin-woo.gif" width="400px" height="150px">
 
 
 
@@ -47,6 +50,8 @@ A Jack-of-all-trades with a Masters in Computer Science and a minor in Data Scie
 
 
 <hr>
+
+<img src="https://c.tenor.com/NZhkoDp1mR8AAAAC/sharingan.gif" width="40px" height="70px"> 
 My alternative self (not necessarily in the sense of the many worlds interpretation) stepped off the hedonic treadmill but is is still doing something cool and fun.    
 
 You can find miscellaneous details about this [here](https://snknitin.github.io/personal)
