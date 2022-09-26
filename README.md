@@ -4,7 +4,6 @@
 [![Linkedin Follow](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nitinkishore/)](https://www.linkedin.com/in/nitinkishore/)
 ![hits](https://visitor-badge.laobi.icu/badge?page_id=snknitin)
 
-<br>
 
 <div align="left"> 
 
