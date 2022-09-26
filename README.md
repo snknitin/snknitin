@@ -1,10 +1,10 @@
 ###  Hello World 🤖 [![My Website](https://img.shields.io/website?url=https%3A%2F%2Fsnknitin.github.io)](https://snknitin.github.io)
 
 
-
 [![Linkedin Follow](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nitinkishore/)](https://www.linkedin.com/in/nitinkishore/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Nitin_wysiwyg?label=Follow&style=social)](http://twitter.com/Nitin_wysiwyg)
 ![hits](https://visitor-badge.laobi.icu/badge?page_id=snknitin)
+![Github](https://img.shields.io/github/followers/snknitin?style=social)
 <br />
 
 
