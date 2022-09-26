@@ -23,7 +23,7 @@ A Jack-of-all-trades with a Masters in Computer Science and a minor in Data Scie
 
 * 💸 Staff Data Scientist @ `Walmart Labs`
 * 🎓 [Google Scholar](https://scholar.google.com/citations?user=SQ_dnhIAAAAJ&hl=en)
-* 🧪 Graph Neural Networks, Reinforecement Learning, NLP
+* 🧪 Graph Neural Networks, Reinforcement Learning, NLP
 
     
 </div>
