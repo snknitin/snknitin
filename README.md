@@ -1,15 +1,12 @@
 ### Hello World 🤖👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Nitin_wysiwyg?label=Follow&style=social)](http://twitter.com/Nitin_wysiwyg)
+
 [![Linkedin Follow](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nitinkishore/)](https://www.linkedin.com/in/nitinkishore/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Nitin_wysiwyg?label=Follow&style=social)](http://twitter.com/Nitin_wysiwyg)
 ![hits](https://visitor-badge.laobi.icu/badge?page_id=snknitin)
+<br />
 
 
-<div align="left"> 
-
-    <img src="https://komarev.com/ghpvc/?username=snknitin" alt="snknitin"> 
-   
-</div>
 
 
 <!--
@@ -19,8 +16,10 @@
 
 
 <hr>
+
 <div markdown="1">
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=snknitin&show_icons=true&theme=algolia"  width="400px" alt="snknitin">
+
     
 A Jack-of-all-trades with a Masters in Computer Science and a minor in Data Science. I aim to be a generalist across all the sub fields of AI and am working towards it.  
     
@@ -29,12 +28,15 @@ A Jack-of-all-trades with a Masters in Computer Science and a minor in Data Scie
 * 🎓 [Google Scholar](https://scholar.google.com/citations?user=SQ_dnhIAAAAJ&hl=en)
     
 </div>
+    <div align="right"> 
+    <img src="https://komarev.com/ghpvc/?username=snknitin" alt="snknitin"> 
+</div>
 <hr>
 <br>
 <div>
     <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
     <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
+    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
     <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
