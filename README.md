@@ -34,19 +34,20 @@ A Jack-of-all-trades with a Masters in Computer Science and a minor in Data Scie
     <img align="right" src="https://github.com/snknitin/snknitin.github.io/blob/master/images/gamer.jpg"  width="400px" alt="snknitin">
 I usually keep myself busy
 
-* 📚 MOOCs I'm currently doing (in 2022) - 
-    * AI for Trading - Udacity Nanodegree,
-    * FSDL - Full Stack Deep Learning 
-    * Fast.ai - Practical Deep Learning for Coders
-    * Fast.ai2 - From Deep Learning Foundations to Stable Diffusion
-    * Categories for AI (CatsforAI)
-    * HuggingFace Transformers
+📚 MOOCs I'm currently doing (in 2022) - 
+* AI for Trading - Udacity Nanodegree,
+* FSDL - Full Stack Deep Learning 
+* Fast.ai - Practical Deep Learning for Coders
+* Fast.ai2 - From Deep Learning Foundations to Stable Diffusion
+* Categories for AI (CatsforAI)
+* HuggingFace Transformers
+
     
-* 🤝 Looking to collaborate on - 
-    * Novel research ideas to tackle unsolved problems in multiple domains
-    * Open Source projects
-    * Publishing Papers in ICML, Neurips
-    * Discord Study Groups for ML-DL Reference Books
+🤝 Looking to collaborate on - 
+* Novel research ideas to tackle unsolved problems in multiple domains
+* Open Source projects
+* Publishing Papers in ICML, Neurips
+* Discord Study Groups for ML-DL Reference Books
     
 </div>
 
