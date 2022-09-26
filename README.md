@@ -1,11 +1,16 @@
 ### 🔱 Hello World 🤖 [![My Website](https://img.shields.io/website?url=https%3A%2F%2Fsnknitin.github.io)](https://snknitin.github.io)
 
+ <a href="https://www.buymeacoffee.com/snknitin" target="_blank" rel="noreferrer nofollow">
+      <img align="right" src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
+    </a>
 
 [![Linkedin Follow](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nitinkishore/)](https://www.linkedin.com/in/nitinkishore/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Nitin_wysiwyg?label=Follow&style=social)](http://twitter.com/Nitin_wysiwyg)
 ![hits](https://visitor-badge.laobi.icu/badge?page_id=snknitin)
 ![Github](https://img.shields.io/github/followers/snknitin?style=social)
+
 <br />
+
 
 
 <!--
@@ -86,9 +91,13 @@ You can find miscellaneous details about this [here](https://snknitin.github.io/
     <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
-    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
     </td>
     <td>
     <img src="https://c.tenor.com/19Ev9JAezGEAAAAC/ninjala-ninjala-anime.gif"  width="200px"> 
