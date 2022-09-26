@@ -18,17 +18,37 @@
 
 <div markdown="1">
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=snknitin&show_icons=true&theme=algolia"  width="400px" alt="snknitin">
-    
-A Jack-of-all-trades with a Masters in Computer Science and a minor in Data Science. I aim to be a generalist across all the sub fields of AI and am working towards it.  
-    
-* 📖 Currently learning - AI for Trading, huggingface transformers
-* 🤝 Looking to collaborate on - Novel research ideas to tackle unsolved problems in multiple domains
+
+A Jack-of-all-trades with a Masters in Computer Science and a minor in Data Science. I aim to be a generalist across all the sub fields of AI and am actively working towards it.  
+
+* 💸 Staff Data Scientist @ `Walmart Labs`
 * 🎓 [Google Scholar](https://scholar.google.com/citations?user=SQ_dnhIAAAAJ&hl=en)
+* 🧪 Graph Neural Networks, Reinforecement Learning, NLP
 
     
 </div>
 
+<hr>
 
+<div markdown="1">
+    <img align="right" src="https://github.com/snknitin/snknitin.github.io/blob/master/images/gamer.jpg"  width="400px" alt="snknitin">
+I usually keep myself busy
+
+* 📚 MOOCs I'm currently doing (in 2022) - 
+    * AI for Trading - Udacity Nanodegree,
+    * FSDL - Full Stack Deep Learning 
+    * Fast.ai - Practical Deep Learning for Coders
+    * Fast.ai2 - From Deep Learning Foundations to Stable Diffusion
+    * Categories for AI (CatsforAI)
+    * HuggingFace Transformers
+    
+* 🤝 Looking to collaborate on - 
+    * Novel research ideas to tackle unsolved problems in multiple domains
+    * Open Source projects
+    * Publishing Papers in ICML, Neurips
+    * Discord Study Groups for ML-DL Reference Books
+    
+</div>
 
 <hr>
 
@@ -68,6 +88,9 @@ You can find miscellaneous details about this [here](https://snknitin.github.io/
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+    </td>
+    <td>
+    <img src="https://c.tenor.com/19Ev9JAezGEAAAAC/ninjala-ninjala-anime.gif"  width="200px"> 
     </td>
   </tr>
 </table>
