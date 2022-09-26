@@ -1,21 +1,25 @@
-### 🔱 Hello World 🤖 [![My Website](https://img.shields.io/website?url=https%3A%2F%2Fsnknitin.github.io)](https://snknitin.github.io)
+### 🔱 Hello World 🤖 
 
+<div markdown="1" align="left">
  <a href="https://www.buymeacoffee.com/snknitin" target="_blank" rel="noreferrer nofollow">
-      <img align="right" src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
-    </a>
+    <img align="right" src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="30" width="170" >
+ </a>
  
-
+ 
+[![My Website](https://img.shields.io/website?url=https%3A%2F%2Fsnknitin.github.io)](https://snknitin.github.io)
 [![Linkedin Follow](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nitinkishore/)](https://www.linkedin.com/in/nitinkishore/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Nitin_wysiwyg?label=Follow&style=social)](http://twitter.com/Nitin_wysiwyg)
 ![hits](https://visitor-badge.laobi.icu/badge?page_id=snknitin)
 ![Github](https://img.shields.io/github/followers/snknitin?style=social)
 
-<p align="left">
+ <p align="left">
     <a href="https://www.researchgate.net/profile/Nitin-Samala-2" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"></a>
     <a href="https://orcid.org/0000-0002-7966-7523" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
     <a href="https://stackoverflow.com/users/6807185/nitin-kishore" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a>
     <a href="https://stackexchange.com/users/9153517/nitin-kishore" target="_blank"><img alt="Stack Exchange" src="https://img.shields.io/badge/-Stack%20Exchange-1E5297?style=flat-square&logo=Stack-Exchange&logoColor=white"></a>
-</p>
+  </p>
+ 
+</div>
 <br />
 
 
@@ -115,7 +119,7 @@ You can find miscellaneous details about this [here](https://snknitin.github.io/
 -----------------------------------
 
 <div align="left">
-    <h4>Other ways to reach me 📫</h4>
+    <h4> Other ways to reach me 📫</h4>
     <a href="mailto: snk.nitin@gmail.com">
         <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30px">
     </a>&nbsp;&nbsp;
@@ -132,3 +136,10 @@ You can find miscellaneous details about this [here](https://snknitin.github.io/
         <img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" width="30px">
     </a>&nbsp;&nbsp;
 </div>
+<br />
+You can visit my blogs, if you can find them
+
+<img src="https://c.tenor.com/Tc-TUkHTki4AAAAd/rick-roll.gif" width="200px"> 
+
+
+
