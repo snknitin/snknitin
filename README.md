@@ -5,9 +5,9 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Nitin_wysiwyg?label=Follow&style=social)](http://twitter.com/Nitin_wysiwyg)
 
 <br />
-
-<div align="left"> 
 ![hits](https://visitor-badge.laobi.icu/badge?page_id=snknitin)
+<div align="left"> 
+
     <img src="https://komarev.com/ghpvc/?username=snknitin" alt="snknitin"> 
    
 </div>
