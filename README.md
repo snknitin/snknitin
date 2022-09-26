@@ -18,7 +18,6 @@
 
 <div markdown="1">
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=snknitin&show_icons=true&theme=algolia"  width="400px" alt="snknitin">
-
     
 A Jack-of-all-trades with a Masters in Computer Science and a minor in Data Science. I aim to be a generalist across all the sub fields of AI and am working towards it.  
     
@@ -26,30 +25,40 @@ A Jack-of-all-trades with a Masters in Computer Science and a minor in Data Scie
 * 🤝 Looking to collaborate on - Novel research ideas to tackle unsolved problems in multiple domains
 * 🎓 [Google Scholar](https://scholar.google.com/citations?user=SQ_dnhIAAAAJ&hl=en)
 
- 
     
 </div>
 
- <div align="right"> 
-    <img src="https://komarev.com/ghpvc/?username=snknitin" alt="snknitin"> 
-</div>
-
-
- <div align="right"> 
-    <img src="https://c.tenor.com/GaBZpWimIVUAAAAC/solo-leveling-sung-jin-woo.gif" width="400px" height="180px">
-</div>
 
 
 <hr>
-<br>
+
+<div markdown="1" align="right">
+     <img align="left" src="https://c.tenor.com/GaBZpWimIVUAAAAC/solo-leveling-sung-jin-woo.gif" width="400px" height="180px"> 
 
 
+My alternative self (not necessarily in the sense of the many worlds interpretation) stepped off the hedonic treadmill but is still doing something cool and fun.
 
-<div align="left"> 
-    <img src="https://c.tenor.com/NZhkoDp1mR8AAAAC/sharingan.gif"  width="70px"> 
+
+You can find miscellaneous details about this [here](https://snknitin.github.io/personal)
+
 </div>
 
-<div align="right" >
+<div align="right"> 
+    <img src="https://komarev.com/ghpvc/?username=snknitin" alt="snknitin"> 
+</div>
+<br />
+
+
+
+---------------------------------
+<table>
+  <tr>   
+    <td>
+    <div align="left"> 
+        <img src="https://c.tenor.com/NZhkoDp1mR8AAAAC/sharingan.gif"  width="90px"> 
+    </div> </td>
+    <td> 
+        <h4> Packages and Tools I'm proficient with :  </h4>
     <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
     <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
@@ -59,25 +68,11 @@ A Jack-of-all-trades with a Masters in Computer Science and a minor in Data Scie
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-</div>
+    </td>
+  </tr>
+</table>
 
-
-<hr>
-
-<div markdown="1">
-
-   
-My alternative self (not necessarily in the sense of the many worlds interpretation) stepped off the hedonic treadmill but is is still doing something cool and fun.    
-You can find miscellaneous details about this [here](https://snknitin.github.io/personal)
-
-</div>
-
-
-
-    
-
-<hr>
-<br />
+-----------------------------------
 
 <div align="left">
     <h4>Other ways to reach me 📫</h4>
