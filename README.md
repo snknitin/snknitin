@@ -51,8 +51,13 @@ My alternative self (not necessarily in the sense of the many worlds interpretat
 
 You can find miscellaneous details about this [here](https://snknitin.github.io/personal)
 
+<hr>
+
 <div align="left">
-    <h4>How to reach me 📫</h4>
+    <h4>Other ways to reach me 📫</h4>
+    <a href="mailto: snk.nitin@gmail.com">
+        <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30px">
+    </a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/nitinkishore/">
         <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px">
     </a>&nbsp;&nbsp;
@@ -60,9 +65,9 @@ You can find miscellaneous details about this [here](https://snknitin.github.io/
         <img src="https://cdn-icons-png.flaticon.com/512/145/145812.png" width="30px">
     </a>&nbsp;&nbsp;
     <a href="https://discordapp.com/users/Nike#9685/">
-        <img src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670157.png?token=exp=1651120922~hmac=78d6b5a53e358ae2e43ac0922b59bdfb" width="30px">
+        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" width="30px">
     </a>&nbsp;&nbsp;
     <a href="https://www.instagram.com/nitin_kishore4869/">
-        <img src="https://cdn-icons.flaticon.com/png/512/4138/premium/4138124.png?token=exp=1651120975~hmac=201c08240049eb3efd80fedb7981afa0" width="30px">
+        <img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" width="30px">
     </a>&nbsp;&nbsp;
 </div>
