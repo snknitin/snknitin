@@ -34,23 +34,38 @@
 
 <hr>
 
+
+
 <div markdown="1">
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=snknitin&show_icons=true&theme=algolia"  width="400px" alt="snknitin">
+    
 
 A Jack-of-all-trades with a Masters in Computer Science and a minor in Data Science. I aim to be a generalist across all the sub fields of AI and am actively working towards it.  
 
 * 💸 Staff Data Scientist @ `Walmart Labs`
 * 🎓 [Google Scholar](https://scholar.google.com/citations?user=SQ_dnhIAAAAJ&hl=en)
 * 🧪 Graph Neural Networks, Reinforcement Learning, NLP
-
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=snknitin&theme=dark&hide_border=false"  width="400px" alt="snknitin">
     
 </div>
 
-<hr>
+
 
 <div markdown="1">
-    <img align="right" src="https://github.com/snknitin/snknitin.github.io/blob/master/images/gamer.jpg"  width="400px" height="385px" alt="snknitin">
+    
+<hr>
 
+    
+🤝 Looking to collaborate on - 
+* Novel research ideas to tackle unsolved problems in multiple domains
+* Open Source projects
+* Publishing Papers in ICML, Neurips
+* Discord Study Groups for ML-DL Reference Books
+
+
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snknitin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"  width="400px" alt="snknitin">
+
+<hr>
 
 📚 MOOCs I'm currently doing (in 2022) - 
 * AI for Trading - Udacity Nanodegree,
@@ -61,15 +76,10 @@ A Jack-of-all-trades with a Masters in Computer Science and a minor in Data Scie
 * HuggingFace Transformers
 
     
-🤝 Looking to collaborate on - 
-* Novel research ideas to tackle unsolved problems in multiple domains
-* Open Source projects
-* Publishing Papers in ICML, Neurips
-* Discord Study Groups for ML-DL Reference Books
-    
 </div>
 
 <hr>
+
 
 <div markdown="1" align="right">
      <img align="left" src="https://c.tenor.com/GaBZpWimIVUAAAAC/solo-leveling-sung-jin-woo.gif" width="400px" height="180px"> 
