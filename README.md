@@ -6,10 +6,12 @@
  </a>
  
  
-[![My Website](https://img.shields.io/website?url=https%3A%2F%2Fsnknitin.github.io)](https://snknitin.github.io)
+
+[![My Website](https://img.shields.io/website?url=https%3A%2F%2Fsnknitin.github.io)](https://snknitin.github.io) 
+![hits](https://visitor-badge.laobi.icu/badge?page_id=snknitin)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@snk.nitin) 
 [![Linkedin Follow](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nitinkishore/)](https://www.linkedin.com/in/nitinkishore/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Nitin_wysiwyg?label=Follow&style=social)](http://twitter.com/Nitin_wysiwyg)
-![hits](https://visitor-badge.laobi.icu/badge?page_id=snknitin)
 ![Github](https://img.shields.io/github/followers/snknitin?style=social)
 
  <p align="left">
@@ -119,6 +121,7 @@ You can find miscellaneous details about this [here](https://snknitin.github.io/
 -----------------------------------
 
 <div align="left">
+    <img align="right" src="https://c.tenor.com/Tc-TUkHTki4AAAAd/rick-roll.gif" width="200px"> 
     <h4> Other ways to reach me 📫</h4>
     <a href="mailto: snk.nitin@gmail.com">
         <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30px">
@@ -135,11 +138,11 @@ You can find miscellaneous details about this [here](https://snknitin.github.io/
     <a href="https://www.instagram.com/nitin_kishore4869/">
         <img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" width="30px">
     </a>&nbsp;&nbsp;
-</div>
-<br />
+
 You can visit my blogs, if you can find them
+ 
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/snknitin)
 
-<img src="https://c.tenor.com/Tc-TUkHTki4AAAAd/rick-roll.gif" width="200px"> 
-
-
+</div> 
+<br />
 
