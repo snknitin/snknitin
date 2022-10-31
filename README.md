@@ -111,13 +111,8 @@ A Jack-of-all-trades with a Masters in Computer Science and a minor in Data Scie
 
 
 ## 🏆 GitHub Trophies
-<div markdown="1">
-   <img align="right" src="https://github.com/snknitin/snknitin.github.io/blob/master/images/gamer.jpg"  width="220px" height="230px" alt="snknitin">
 
 ![](https://github-profile-trophy.vercel.app/?username=snknitin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
-</div>
 
 <hr>
 
@@ -140,10 +135,12 @@ You can find miscellaneous details about this [here](https://snknitin.github.io/
 
 
 -----------------------------------
+### 📫 Other ways to reach me 
+
+You can visit my blogs, if you can find them
 
 <div align="left">
-    <img align="right" src="https://c.tenor.com/Tc-TUkHTki4AAAAd/rick-roll.gif" width="200px"> 
-    <h4> Other ways to reach me 📫</h4>
+    <img align="right" src="https://github.com/snknitin/snknitin.github.io/blob/master/images/gamer.jpg"  width="400px" height="385px" alt="snknitin">
     <a href="mailto: snk.nitin@gmail.com">
         <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30px">
     </a>&nbsp;&nbsp;
@@ -159,10 +156,14 @@ You can find miscellaneous details about this [here](https://snknitin.github.io/
     <a href="https://www.instagram.com/nitin_kishore4869/">
         <img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" width="30px">
     </a>&nbsp;&nbsp;
-
-You can visit my blogs, if you can find them
  
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/snknitin)
+ 
+<img align="center" src="https://c.tenor.com/Tc-TUkHTki4AAAAd/rick-roll.gif" width="200px"> 
+ 
+
+ 
+
 
 </div> 
 <br />
