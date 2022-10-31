@@ -81,34 +81,6 @@ A Jack-of-all-trades with a Masters in Computer Science and a minor in Data Scie
 <hr>
 
 
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=snknitin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-
-
-<div markdown="1" align="right">
-     <img align="left" src="https://c.tenor.com/GaBZpWimIVUAAAAC/solo-leveling-sung-jin-woo.gif" width="400px" height="180px"> 
-
-
-My alternative self (not necessarily in the sense of the many worlds interpretation) stepped off the hedonic treadmill but is still doing something cool and fun.
-
-
-You can find miscellaneous details about this [here](https://snknitin.github.io/personal)
-
-</div>
-
-<div align="right"> 
-    <img src="https://komarev.com/ghpvc/?username=snknitin" alt="snknitin"> 
-</div>
-<br />
-
-
-
----------------------------------
 <table>
   <tr>   
     <td>
@@ -136,6 +108,36 @@ You can find miscellaneous details about this [here](https://snknitin.github.io/
     </td>
   </tr>
 </table>
+
+
+## 🏆 GitHub Trophies
+<div markdown="1">
+   <img align="right" src="https://github.com/snknitin/snknitin.github.io/blob/master/images/gamer.jpg"  width="220px" height="230px" alt="snknitin">
+
+![](https://github-profile-trophy.vercel.app/?username=snknitin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+</div>
+
+<hr>
+
+<div markdown="1" align="right">
+     <img align="left" src="https://c.tenor.com/GaBZpWimIVUAAAAC/solo-leveling-sung-jin-woo.gif" width="360px" height="170px"> 
+
+
+My alternative self (not necessarily in the sense of the many worlds interpretation) stepped off the hedonic treadmill but is still doing something cool and fun.
+
+
+You can find miscellaneous details about this [here](https://snknitin.github.io/personal)
+
+</div>
+
+<div align="right"> 
+    <img src="https://komarev.com/ghpvc/?username=snknitin" alt="snknitin"> 
+</div>
+<br />
+
+
 
 -----------------------------------
 
