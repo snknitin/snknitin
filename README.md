@@ -81,6 +81,15 @@ A Jack-of-all-trades with a Masters in Computer Science and a minor in Data Scie
 <hr>
 
 
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=snknitin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+
+
 <div markdown="1" align="right">
      <img align="left" src="https://c.tenor.com/GaBZpWimIVUAAAAC/solo-leveling-sung-jin-woo.gif" width="400px" height="180px"> 
 
