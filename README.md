@@ -140,7 +140,7 @@ You can find miscellaneous details about this [here](https://snknitin.github.io/
 You can visit my blogs, if you can find them
 
 <div align="left">
-    <img align="right" src="https://github.com/snknitin/snknitin.github.io/blob/master/images/gamer.jpg"  width="400px" height="385px" alt="snknitin">
+    <img align="right" src="https://github.com/snknitin/snknitin.github.io/blob/master/images/gamer.jpg"  width="320px" height="285px" alt="snknitin">
     <a href="mailto: snk.nitin@gmail.com">
         <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30px">
     </a>&nbsp;&nbsp;
