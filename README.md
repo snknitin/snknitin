@@ -45,7 +45,7 @@ A Jack-of-all-trades with a Masters in Computer Science and a minor in Data Scie
 * 💸 Staff Data Scientist @ `Walmart Labs`
 * 🎓 [Google Scholar](https://scholar.google.com/citations?user=SQ_dnhIAAAAJ&hl=en)
 * 💭 [Google Patents](https://patents.google.com/?inventor=Nitin+Kishore+Sai+Samala)
-* 🧪 Graph Neural Networks, Reinforcement Learning, NLP
+* 🧪 Graph Neural Networks, Reinforcement Learning, NLP, GenAI
     <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=snknitin&theme=dark&hide_border=false"  width="400px" alt="snknitin">
     
 </div>
